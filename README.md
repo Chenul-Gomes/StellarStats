@@ -105,5 +105,4 @@ jupyter lab
 
 ## Author
 
-Chenul Gomes — Astrophysics student at university in Ottawa, Canada  
-github.com/Chenul-Gomes
+Chenul Gomes
